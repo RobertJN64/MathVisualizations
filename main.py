@@ -1,5 +1,5 @@
-import LogisticsMap
+import imaginaryplane
 
 #LogisticsMap.plotOneCurve(3)
 #LogisticsMap.plot2D()
-LogisticsMap.plot3Dr()
+#LogisticsMap.plot3Dr()
